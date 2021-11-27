@@ -17,5 +17,4 @@ Chúng ta cần tham gia môi trường ảo bằng cách chạy ```poetry shell
 ```./data/get_coco_dataset.sh```
   
 4. Để đào tạo về COCO bằng cách sử dụng phụ trợ Darknet-53 được đào tạo trước trên ImageNet chạy
-
 ```poetry run yolo-train --data config/coco.data  --pretrained_weights weights/darknet53.conv.74```
