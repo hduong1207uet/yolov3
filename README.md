@@ -1,4 +1,4 @@
-# yolov3
+# YOLOV3
 # Train Yolov3 sử dụng COCO Dataset
 1. Clone project và cài gói Poetry để quản lý Dependency trong Python
 ```
