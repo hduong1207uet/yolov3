@@ -8,7 +8,7 @@ pip3 install poetry --user
 poetry install
 ```
 
-Chúng ta cần tham gia môi trường ảo bằng cách chạy ```poetry shell``` trong thư mục này trước khi chạy bất kỳ lệnh nào sau đây mà không có câu lệnh trước ```poetry run```.
+Chúng ta cần tham gia môi trường ảo bằng cách chạy ```poetry shell``` trong thư mục này trước khi chạy bất kỳ lệnh nào sau đây mà không có câu lệnh ```poetry run``` ở trước.
 
 2. Tải xuống các file **weights** đã được huấn luyện trước
 ```./weights/download_weights.sh```
